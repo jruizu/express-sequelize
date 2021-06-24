@@ -1,4 +1,4 @@
-# Employees - NodeJS [BACK]
+# Sequelize - NodeJS [BACK]
 
 ### Tecnologías
 
