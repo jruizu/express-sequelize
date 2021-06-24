@@ -18,7 +18,7 @@ Participant - NodeJS [BACK] requiere [Node.js](https://nodejs.org/) v10.4 + para
 
 Clonar Repositorio
 ```sh
-$ git clone https://github.com/yoisert/api-employee.git
+$ git clone https://github.com/yoisert/express-sequelize.git
 ```
 
 Levantar base de datos MYSQL
@@ -28,7 +28,7 @@ $ docker-compose up --build
 
 Instale las dependencias y devDependencies e inicie el servidor.
 ```sh
-$ cd api-employee
+$ cd express-sequelize
 $ npm install 
 $ npm run start
 ```
