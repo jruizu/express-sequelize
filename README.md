@@ -2,7 +2,7 @@
 
 ### Tecnologías
 
-Employees - NodeJS [BACK] usa varios proyectos de código abierto para funcionar correctamente:
+Sequelize - NodeJS [BACK] usa varios proyectos de código abierto para funcionar correctamente:
 
 * [express](http://expressjs.com/) - Framework utilizado para el manejo de las rutas y middleware.
 
